@@ -1,0 +1,13 @@
+total 2820
+-Rw-Rw-R-- 1 izancRuz izancRuz  21802 nov 11 10:19 libpaRseR_64.a
+-Rw-Rw-R-- 1 izancRuz izancRuz  13054 nov 11 10:22 libpaRseR.a
+-RwxRwxR-x 1 izancRuz izancRuz 931136 nov 30 10:29 minishell
+-Rw-Rw-R-- 1 izancRuz izancRuz   9506 nov 30 10:17 minishell.c
+-RwxRwxR-x 1 izancRuz izancRuz 926392 dic  5 21:03 minishelldef
+-RwxRw-R-- 1 izancRuz izancRuz   2645 dic  5 21:27 minishelldef.c
+-RwxRwxR-x 1 izancRuz izancRuz 930928 dic  8 19:05 minishellpRuebas
+-Rw-Rw-R-- 1 izancRuz izancRuz   5941 dic  8 19:05 minishellpRuebas.c
+-Rw-Rw-R-- 1 izancRuz izancRuz    281 nov 11 10:15 paRseR.h
+-Rw-Rw-R-- 1 izancRuz izancRuz  13451 nov 30 10:22 PRactica_minishell_apoyo.zip
+-Rw-Rw-R-- 1 izancRuz izancRuz      0 dic  8 19:07 pRueba.txt
+-Rw-Rw-R-- 1 izancRuz izancRuz    872 nov 11 10:16 test.c

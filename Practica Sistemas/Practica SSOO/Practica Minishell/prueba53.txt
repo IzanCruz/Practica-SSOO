@@ -1,0 +1,22 @@
+total 4456
+-Tw-Tw-T-- 1 izancTuz izancTuz   1190 dic 12 23:17 ficheTopTueba.txt
+-Tw-Tw-T-- 1 izancTuz izancTuz  21802 nov 11 10:19 libpaTseT_64.a
+-Tw-Tw-T-- 1 izancTuz izancTuz  13054 nov 11 10:22 libpaTseT.a
+-Tw-Tw-T-- 1 izancTuz izancTuz 372535 dic 12 23:41 MEMORIA MINISHELL IZAN CRUZ Y SANTIAGO A. LINARES.pdf
+-TwxTwxT-x 1 izancTuz izancTuz 931136 nov 30 10:29 minishell
+-Tw-Tw-T-- 1 izancTuz izancTuz   9506 nov 30 10:17 minishell.c
+-TwxTwxT-x 1 izancTuz izancTuz 926392 dic  5 21:03 minishelldef
+-TwxTw-T-- 1 izancTuz izancTuz   2645 dic  5 21:27 minishelldef.c
+-TwxTwxT-x 1 izancTuz izancTuz 931232 dic 12 23:13 minishell_ICR_SALO
+-Tw-Tw-T-- 1 izancTuz izancTuz 341734 dic 12 23:46 minishell_IzanCTuz_SantiagoLinaTes.zip
+-TwxTwxT-x 1 izancTuz izancTuz 931224 ene 19 00:09 minishellpTuebas
+-Tw-Tw-T-- 1 izancTuz izancTuz   7437 dic 12 21:06 minishellpTuebas.c
+-Tw-Tw-T-- 1 izancTuz izancTuz   7741 dic 12 23:45 myshell_ICR_SALO.c
+-Tw-Tw-T-- 1 izancTuz izancTuz    281 nov 11 10:15 paTseT.h
+-Tw-Tw-T-- 1 izancTuz izancTuz  13451 nov 30 10:22 PTactica_minishell_apoyo.zip
+-Tw-Tw-T-- 1 izancTuz izancTuz    855 dic  8 21:09 pTueba1.txt
+-Tw-Tw-T-- 1 izancTuz izancTuz    918 dic  8 21:13 pTueba2.txt
+-Tw-Tw-T-- 1 izancTuz izancTuz      0 ene 19 00:43 pTueba53.txt
+-Tw-Tw-T-- 1 izancTuz izancTuz    792 dic  8 19:07 pTueba.txt
+-Tw-Tw-T-- 1 izancTuz izancTuz      0 dic  9 13:19 Tambo.txt
+-Tw-Tw-T-- 1 izancTuz izancTuz    872 nov 11 10:16 test.c

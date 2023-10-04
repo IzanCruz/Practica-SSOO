@@ -1,0 +1,14 @@
+total 2824
+-Tw-Tw-T-- 1 izancTuz izancTuz  21802 nov 11 10:19 libpaTseT_64.a
+-Tw-Tw-T-- 1 izancTuz izancTuz  13054 nov 11 10:22 libpaTseT.a
+-TwxTwxT-x 1 izancTuz izancTuz 931136 nov 30 10:29 minishell
+-Tw-Tw-T-- 1 izancTuz izancTuz   9506 nov 30 10:17 minishell.c
+-TwxTwxT-x 1 izancTuz izancTuz 926392 dic  5 21:03 minishelldef
+-TwxTw-T-- 1 izancTuz izancTuz   2645 dic  5 21:27 minishelldef.c
+-TwxTwxT-x 1 izancTuz izancTuz 930936 dic  8 21:09 minishellpTuebas
+-Tw-Tw-T-- 1 izancTuz izancTuz   4937 dic  8 21:09 minishellpTuebas.c
+-Tw-Tw-T-- 1 izancTuz izancTuz    281 nov 11 10:15 paTseT.h
+-Tw-Tw-T-- 1 izancTuz izancTuz  13451 nov 30 10:22 PTactica_minishell_apoyo.zip
+-Tw-Tw-T-- 1 izancTuz izancTuz      0 dic  8 21:09 pTueba1.txt
+-Tw-Tw-T-- 1 izancTuz izancTuz    792 dic  8 19:07 pTueba.txt
+-Tw-Tw-T-- 1 izancTuz izancTuz    872 nov 11 10:16 test.c
